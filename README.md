@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hoyoung, Jeong -- @hotorch
 
-<!--
-**hotorch/hotorch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! Welcome to my GitHub place.
+- Main interests are **Natural Language Processing**, **Recommender System, Deep Learning and Machine Learning**
+- **Data Analyst** who eagerly wants to develop a creative solution with latest technology
+- Positive and fast learner with a **fast learning curve**
 
-Here are some ideas to get you started:
+### ⚡ Languages 
+- R (intermediate)
+- Python (intermediate)
+- SQL (intermediate)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Project
+- Industrial Bank of Korea
+- Hyundai Marine & Fire Insurance Group
+- Woori Bank
+
+### 💬 Teaching
+- Pusan National University : ML, XAI
+- Hyundai Marine & Fire Insurance Group : NLP
+- LG U+ : NLP
+
