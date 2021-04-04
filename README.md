@@ -11,10 +11,13 @@
 - SQL (intermediate)
 
 ### 🌱 Project
-- Industrial Bank of Korea(2019.04)
-- Hyundai Marine & Fire Insurance Group(2019.08)
-- Woori Bank(2020.01)
-- LG U+(2020.08)
+- Industrial Bank of Korea(2019.04~06)
+- Hyundai Marine & Fire Insurance Group(2019.08~12)
+- Woori Bank(2020.01~06)
+- LG U+(2020.08~2021.01)
+- LG Electronics(2021.02~05)
+- LG U+(2021.05~)
+
 
 ### 💬 Teaching
 - Pusan National University : ML, XAI, Multivariate Statistics, Data Mining
