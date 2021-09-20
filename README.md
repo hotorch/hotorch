@@ -22,8 +22,8 @@
 ### 💬 Teaching
 - Pusan National University : ML, XAI, Multivariate Statistics, Data Mining
 - Hyundai Marine & Fire Insurance Group : NLP
-
+- Chung-Ang University : Python, Data Analsis(Basic)
 
 ### 🎨 Awards
 - Dacon Smishing SMS Analysis 1st place(2020.01)
-- Dacon Climate Technology ClS 7st place(2021.08)
+- Dacon Climate Technology CLS 7st place(2021.08)
