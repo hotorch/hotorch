@@ -5,7 +5,7 @@
 
 [![Blog Badge](http://img.shields.io/badge/-Brunch-yellow?style=flat-square&logo=medium&link=https://brunch.co.kr/@hotorch)](https://brunch.co.kr/@hotorch/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghdud1515@gmail.com)](mailto:ghdud1515@gmail.com)
-[![Blog Badge](http://img.shields.io/badge/-Tistory-black?style=flat-square&logo=github&link=https://hotorch.tistory.com/)](https://hotorch.tistory.com/)
+[![Blog Badge](http://img.shields.io/badge/-Tistory-black?style=flat-square&logo=tistory&link=https://hotorch.tistory.com/)](https://hotorch.tistory.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoyoung-jeong-0b2790175/)](https://www.linkedin.com/in/hoyoung-jeong-0b2790175/)
 
 </div>
