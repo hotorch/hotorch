@@ -1,43 +1,39 @@
 ### Hoyoung, Jeong -- @hotorch
 
-![Timeline-tec](./Timeline-tec.png)  
-
-
 
 <div align=center>
 
+[![Blog Badge](http://img.shields.io/badge/-Brunch-yellow?style=flat-square&logo=medium&link=https://brunch.co.kr/@hotorch)](https://brunch.co.kr/@hotorch/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghdud1515@gmail.com)](mailto:ghdud1515@gmail.com)
 [![Blog Badge](http://img.shields.io/badge/-Tistory-black?style=flat-square&logo=github&link=https://hotorch.tistory.com/)](https://hotorch.tistory.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoyoung-jeong-0b2790175/)](https://www.linkedin.com/in/hoyoung-jeong-0b2790175/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hotorch_i_madeit/)](https://www.instagram.com/hotorch_i_madeit/)
-[![Blog Badge](http://img.shields.io/badge/-Brunch-black?style=flat-square&logo=github&link=https://brunch.co.kr/@hotorch)](https://brunch.co.kr/@hotorch/)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hotorch)](https://www.facebook.com/hotorch)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghdud1515@gmail.com)](mailto:ghdud1515@gmail.com)
 
 </div>
 
 
 👋 Hi! Welcome to my GitHub place.
-- Main interests are **Natural Language Processing**, **Recommender System, Deep Learning and Machine Learning**
-- Sub interests are **Quantitative Trading**
+- Main interests are **Natural Language Processing, LLM, DL/ML, Education**
+- Sub interests are Project Managing, Consulting
+- AI consultant, I love to help clients or companies solve problems with AI and make a business contribution
 - **Data Analyst** who eagerly wants to develop a creative solution with latest technology
 - Positive and fast learner with a **fast learning curve**
+- Crave constant growth through **problem solving and challenges.**
 
-### ⚡ Computer Skills (**Bold** → **Intermediate**)
-- **Programming Languages** : **Python**, R
-- **Development environments** : RStudio, **Jupyter Notebook**, **Pycharm**
-- **Preferred Framework & Libraries** : **PyTorch**, **transformers, NLTK**
-- **Machine learning toolkits** : **Scikit-learn,** h2o
-- **Cloud** : **Google Cloud Platform,** AWS
-- **Bigdata ecosystem** : Hive, Impala
-- **Relational database systems** : SQL, PostgreSQL
-- **Ops** : Airflow
+### ⚡ Tech Stack
+- Python, Pytorch, HuggingFace, Scikit-learn
+- PostgreSQL, Milvus
+- OpenAI, Langchain
+- GCP, AWS
+- Airflow
+- git, dvc
+- Gradio, Streamlit
 
 
 ### 🎨 Awards
-- Dacon Smishing SMS Analysis 1st place(2020.01)
-- Dacon Climate Technology CLS 7st place(2021.08)
+- Wanted X Udemy X Jocoding AI Hackathon 1st Place(2023.08)
 - Kaggle AI4Code Understand Code in Python Notebooks 82st place(2022.11)
-
+- Dacon Climate Technology CLS 7st place(2021.08)
+- Dacon Smishing SMS Analysis 1st place(2020.01)
 
 👋 [My Cv URL](https://bit.ly/3jSqE0f)
 
