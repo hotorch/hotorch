@@ -14,7 +14,6 @@
 [![Threads Badge](https://img.shields.io/badge/Threads-Follow-black?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@ai.sam_hottman)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoyoung-jeong-0b2790175/)
 [![Email Badge](https://img.shields.io/badge/Email-reducingtime@zexea.io-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:reducingtime@zexea.io)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hotorch&count_bg=%2379C83D&title_bg=%23555555&title=visits)](https://hits.seeyoufarm.com)
 
 </div>
 
@@ -85,7 +84,6 @@
 ## 📬 Contact
 - **Email:** reducingtime@zexea.io  
 - **LinkedIn / Threads / YouTube:** see badges above for instant reach-outs  
-- **ASMR Community:** join the wait-list for weekly automation blueprints & cohort Q&A  
 
 > *“Reducing Time, Offering Better Lives for All.”*  
 > Let’s automate thoughtfully and build the future—one workflow at a time.
