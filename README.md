@@ -131,7 +131,9 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hotorch&theme=darkhub&no-frame=true&column=7&margin-w=15" alt="GitHub Trophy" />
+  <a href="https://github.com/hotorch"><img src="https://img.shields.io/github/followers/hotorch?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" /></a>
+  <a href="https://github.com/hotorch?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhotorch" alt="GitHub Repos" /></a>
+  <img src="https://komarev.com/ghpvc/?username=hotorch&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
 ---
